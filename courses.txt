@@ -1,0 +1,6 @@
+﻿cs~cs_200~
+it~it_100~
+math~ma_301~
+pl~cs_221~
+pl2~cs_222~
+ds~cs_214~
